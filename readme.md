@@ -2,7 +2,7 @@ You can try this application in https://warehousebiti.000webhostapp.com/index.ph
 user admin
 password admin
 
-Warehouse management
+Warehouse management, it allows you to control stock and products, download pdf, scan QR to get products and etc.
 
 ![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/1ef0aa60-d60d-403a-b5eb-42644fd22779)
 ![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/4e0e530e-027a-43eb-a270-bca371623603)
