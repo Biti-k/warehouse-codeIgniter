@@ -4,6 +4,9 @@ password admin
 
 Warehouse management
 
+![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/1ef0aa60-d60d-403a-b5eb-42644fd22779)
+![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/4e0e530e-027a-43eb-a270-bca371623603)
+![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/44889f3b-ef7c-4a32-a1de-cf0e6a5135d5)
 
 
 
