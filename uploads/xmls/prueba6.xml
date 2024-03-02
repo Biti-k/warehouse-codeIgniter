@@ -1,0 +1,25 @@
+<lots>
+    <lot>
+        <product>10</product>
+        <quantity>10</quantity>
+        <date>2023-01-22 18:10:02</date>
+    </lot>
+
+    <lot>
+        <product>12</product>
+        <quantity>15</quantity>
+        <date>2023-01-12 03:10:02</date>
+    </lot>
+
+    <lot>
+        <product>12</product>
+        <quantity>15</quantity>
+        <date>2022-12-22 09:10:02</date>
+    </lot>
+    
+    <lot>
+        <product>12</product>
+        <quantity>15</quantity>
+        <date>2023-01-21 10:23:02</date>
+    </lot>
+</lots>
