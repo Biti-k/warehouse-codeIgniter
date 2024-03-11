@@ -3,10 +3,10 @@ user admin
 password admin
 
 Warehouse management, it allows you to control stock and products, download pdf, scan QR to get products and etc.
+![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/2c4193f4-2c6c-4ecd-b27a-66c5f76c8d2d)
+![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/1b34d8b3-1e62-46e0-8576-56ff7865515f)
+![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/4a47b588-32c8-4fcb-aa72-32c1d589dad9)
 
-![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/1ef0aa60-d60d-403a-b5eb-42644fd22779)
-![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/4e0e530e-027a-43eb-a270-bca371623603)
-![image](https://github.com/Biti-k/warehouse-codeIgniter/assets/126298024/44889f3b-ef7c-4a32-a1de-cf0e6a5135d5)
 
 
 
